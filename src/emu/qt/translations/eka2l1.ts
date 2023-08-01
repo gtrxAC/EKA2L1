@@ -178,7 +178,7 @@
     </message>
     <message>
         <location filename="../src/btnet_dialog.ui" line="225"/>
-        <source>Players with the same password will be able to see each others. This can be empty.</source>
+        <source>Players with the same password will be able to see each other. This can be empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <location filename="../src/device_install_dialog.cpp" line="212"/>
-        <source>Fail to determine product information from the dump!</source>
+        <source>Failed to determine product information from the dump!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -379,7 +379,7 @@
     </message>
     <message>
         <location filename="../src/device_install_dialog.cpp" line="236"/>
-        <source>Fail to copy ROM file!</source>
+        <source>Failed to copy ROM file!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -429,7 +429,7 @@
     </message>
     <message>
         <location filename="../src/device_install_dialog.cpp" line="301"/>
-        <source>RPKG file (*.rpkg *.RPKG);;All files (*.*</source>
+        <source>RPKG file (*.rpkg *.RPKG);;All files (*.*)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -483,7 +483,7 @@
     </message>
     <message>
         <location filename="../src/btnmap/editor_widget.ui" line="181"/>
-        <source>Profiles are saved per app/game. Press &lt;b&gt;Edit&lt;/b&gt; to enter Edit mode. To delete mapping element, press &lt;b&gt;Delete&lt;/b&gt; and click on the element you want to remove.</source>
+        <source>Profiles are saved per app/game. Press &lt;b&gt;Edit&lt;/b&gt; to enter Edit mode. To delete a mapping element, press &lt;b&gt;Delete&lt;/b&gt; and click on the element you want to remove.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -801,7 +801,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="730"/>
-        <source>Successfully install N-Gage card game: &lt;b&gt;%1&lt;/b&gt;</source>
+        <source>Successfully installed N-Gage card game: &lt;b&gt;%1&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -821,7 +821,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="748"/>
-        <source>The game information file has been corrupted. Please check your data&apos;s validity!</source>
+        <source>The game information file is corrupted. Please check your data&apos;s validity!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -876,7 +876,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="869"/>
-        <source>The choosen file is not a ZIP file!</source>
+        <source>The chosen file is not a ZIP file!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -916,7 +916,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1034"/>
-        <source>Fail to launch the selected application!</source>
+        <source>Failed to launch the selected application!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -951,7 +951,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1120"/>
-        <source>Fail to install package at path: %1. Ensure the path points to a valid SIS/SISX file.</source>
+        <source>Failed to install package at path: %1. Ensure the path points to a valid SIS/SISX file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1001,7 +1001,7 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1500"/>
-        <source>The emulated device does not have a bluetooth manager service! Bluetooth is not supported.</source>
+        <source>The emulated device does not have a Bluetooth manager service! Bluetooth is not supported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1041,12 +1041,12 @@
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1652"/>
-        <source>The JAR needs MIDP-2.0, but the emulator only support MIDP-1.0 JAR running on S60v1 devices!</source>
+        <source>The JAR needs MIDP-2.0, but the emulator only supports MIDP-1.0 JAR running on S60v1 devices!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1656"/>
-        <source>The JAR can not be installed for this current device! Only S60v1 devices can install this JAR at the moment</source>
+        <source>The JAR can not be installed for this current device! Only S60v1 devices can install this JAR at the moment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1335,7 +1335,7 @@
     </message>
     <message>
         <location filename="../src/settings_dialog.ui" line="633"/>
-        <source>Enable this will make window has the constant name of &quot;EKA2L1&quot;, with no additional info.</source>
+        <source>Enabling this will make the window have the constant name of &quot;EKA2L1&quot;, with no additional info.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1385,7 +1385,7 @@
     </message>
     <message>
         <location filename="../src/settings_dialog.ui" line="726"/>
-        <source>This allows emulated softwares to have recording abilities, and prevent flashing in some old S60v1/S60v2 games.
+        <source>This allows emulated software to have recording abilities, and prevent flashing in some old S60v1/S60v2 games.
 Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1565,12 +1565,12 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/settings_dialog.ui" line="1175"/>
-        <source>TinySoundFont (High-quality, support SF2)</source>
+        <source>TinySoundFont (High-quality, supports SF2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/settings_dialog.ui" line="1180"/>
-        <source>MiniBAE (Lower-quality, support HSB)</source>
+        <source>MiniBAE (Lower-quality, supports HSB)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1600,7 +1600,7 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/settings_dialog.ui" line="1322"/>
-        <source>Note: One of the bindings is associated with a mouse button, touchscreen functionalities will be disabled.</source>
+        <source>Note: One of the bindings is associated with a mouse button, touchscreen functionality will be disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1891,7 +1891,7 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/settings_dialog.cpp" line="1229"/>
-        <source>Next time the application requests to play a new MIDI, the choosen backend will be used!</source>
+        <source>Next time the application requests to play a new MIDI, the chosen backend will be used!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1944,7 +1944,7 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/update_dialog.ui" line="91"/>
-        <source>Do not automatically check for update when startup</source>
+        <source>Do not automatically check for updates on startup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1974,7 +1974,7 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/update_dialog.cpp" line="142"/>
-        <source>The emulator is already updated to lastest version!</source>
+        <source>The emulator is already updated to the latest version!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2025,7 +2025,7 @@ Preferred option will automatically enable this on S60v1/S60v2 devices.</source>
     </message>
     <message>
         <location filename="../src/update_dialog.cpp" line="303"/>
-        <source>Can&apos;t not open temporary file for storing the update files!</source>
+        <source>Can&apos;t open temporary file for storing the update files!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
